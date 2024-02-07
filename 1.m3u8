@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1.cn" group-title="General" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2.cn" group-title="Business" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3.cn" group-title="General",CCTV-3 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4.cn" group-title="General",CCTV-4 (1080p)
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5.cn" group-title="Sports" tvg-logo="https://i.imgur.com/nbmnGwE.png",CCTV-5 (1080p)
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7.cn" group-title="Undefined" tvg-logo="https://i.imgur.com/CKcPMQC.png",CCTV-7 (1080p)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8.cn" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="Undefined",CCTV-8 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9.cn" group-title="Documentary" tvg-logo="https://i.imgur.com/3tivvMm.png",CCTV-9 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10.cn" group-title="Education" tvg-logo="https://i.imgur.com/sSSO7UD.png",CCTV-10 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13.cn" group-title="News" tvg-logo="https://i.imgur.com/6MTar6J.png",CCTV-13 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14.cn" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="Undefined",CCTV-14 (1080p)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16.cn" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="Sports",CCTV-16 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+#EXTINF:-1 tvg-id="ShandongTV.cn" group-title="General" ,山东卫视 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",北京卫视 (1080p) 
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
+#EXTINF:-1 tvg-id="LiaoningTV.cn" tvg-logo="https://i.imgur.com/XRfeNTd.png" group-title="Generald",辽宁卫视 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
+#EXTINF:-1 tvg-id="HeilongjiangTV.cn" tvg-logo="https://i.imgur.com/9fj1uba.png" group-title="Undefined",黑龙江 (1080p)
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226010/index.m3u8
